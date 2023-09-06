@@ -1,0 +1,16 @@
+.card {
+    position: relative;
+      width: 250px;
+      height:auto;
+      display: grid;
+      grid-template-columns:auto auto auto;
+      place-items: right;
+      border:1px solid black;
+      margin:20px;
+      border-radius:5px;
+      padding:10px;
+    }
+.flex{
+    display:flex;
+}
+  

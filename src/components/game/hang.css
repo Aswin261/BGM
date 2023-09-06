@@ -1,0 +1,14 @@
+.btn{
+    background: linear-gradient(to right, #fe8c00, #f83600);
+    margin: 10px;
+    border:none;
+    border-radius:5px;
+    padding:5px;
+}
+.hng{
+    width:100%;
+    background: url('https://t14.pimg.jp/096/990/914/1/96990914.jpg') no-repeat;
+    background-size:contain;
+    background-position: center;
+    height:650px;
+}

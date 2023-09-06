@@ -1,0 +1,135 @@
+.bus{
+    background:url('https://st.redbus.in/Images/India/ContextualLogin/generic_banner_Ind.png') no-repeat;
+    width:100%;
+    background-size:cover;
+    background-position: center;
+    height:400px;
+}
+.title{
+    font-weight: bold;
+    color:white;
+    font-size:x-large;
+    background: rgb(131,58,180);
+background: linear-gradient(90deg, rgba(253,29,29,1) 50%, rgba(252,176,69,1) 100%);
+margin:0;
+}
+.ticket-form input{
+    width:258px;
+    height:36px;
+    margin:5px;
+    border:1px solid #dbdbdb;
+    background-color: #fafafa;
+    padding-left:10px;
+    border-radius: 5px;
+}
+.ticket-btn{
+    height:36px;
+    margin:5px;
+    border:1px solid #ef3c3c;
+    background-color: #f03434;
+    padding-left:10px;
+    border-radius: 5px;
+    color:#dbdbdb;
+}
+.ticket-btn:hover{
+    cursor:pointer;
+}
+form{
+    padding-top:50px;
+}
+.images{
+    display:inline-flex;
+    border:1px solid rgb(228, 225, 225);
+    margin:5px;
+}
+.images img{
+    width:390px;
+    height:135px;
+    padding:10px;
+}
+.list{
+    border:1px solid black;
+    border-radius:5px;
+    margin:10px;
+    text-align:left;
+    position:relative;
+    height:100px;
+}
+.list:hover{
+    background-color: rgb(206, 203, 203);
+}
+.medium{
+    height:100px;
+}
+.enlarged{
+    height:250px;
+}
+.name{
+    margin-left:200px;
+    font-size: medium;
+    font-weight: bold;
+}
+.time{
+    margin-left:50px;
+    position:relative;
+    top:-75px;
+}
+.duration{
+    margin-left:10px;
+    font-size: 12px;
+}
+.price{
+float:right;
+margin-top:-130px;
+margin-right:250px;
+font-weight: bold;
+font-size: large;
+}
+.dtime{
+    margin-bottom: 2px;
+    font-weight: bold;
+}
+.atime{
+    margin-top:2px;
+    font-weight: bold;
+}
+.loc-icon{
+    margin-left:10px;
+    position:relative;
+    top:-15px;
+}
+.rating{
+    float:right;
+margin-top:-150px;
+margin-right:10px;
+font-weight: bold;
+font-size: large;
+}
+.seat{
+    float:right;
+    margin-top:-110px;
+    margin-right:10px;
+    border:1px solid #ef3c3c;
+    background-color: #f03434;
+    padding:10px;
+    border-radius: 5px;
+    color:#fafafa;
+    height:30px;
+}
+.seat:hover{
+cursor:pointer;
+}
+.type{
+    position: absolute;
+    left:200px;
+    margin-top:-130px;
+    font-size:12px;
+    color:gray;
+}
+.avail{
+    position: absolute;
+    left:500px;
+    margin-top:-130px;
+    font-size:14px;
+    color:gray;
+}

@@ -1,0 +1,7 @@
+.bg{
+    background: linear-gradient(to right, #fe8c00, #f83600);
+    margin: 10px;
+    border:none;
+    border-radius:5px;
+    padding:5px;
+}

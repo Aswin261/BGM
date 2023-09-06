@@ -1,0 +1,32 @@
+.nav-pills {
+    display: flex;
+    flex-wrap: wrap;
+    margin-bottom: 0.5rem;
+    padding-left: 0;
+    list-style: none;
+    justify-content:center;
+    background: linear-gradient(to right, #e0eafc, #cfdef3);
+    margin-top: 0;
+  }
+  
+  .nav-pills .nav-item {
+    margin-right: 0.5rem;
+  }
+  
+  .nav-pills .nav-link {
+    display: flex;
+    justify-content: center;
+    padding: 0.5rem 1rem;
+    border-radius: 0.25rem;
+    color:black;
+  }
+
+.nav-item.active {
+    background-color:#ff512f;
+    color:white;
+    border-radius:5px;
+  }
+#misc{
+background:url("https://img.freepik.com/free-vector/white-abstract-background-design_23-2148825582.jpg?size=626&ext=jpg&ga=GA1.2.1141691336.1665633772&semt=sph") no-repeat ;
+background-size: cover;
+}

@@ -1,0 +1,61 @@
+.navbar_Container{
+    background-color:rgb(16, 123, 246);
+    height:54px;
+}
+.navbar_logo{
+    position:relative;
+    top:7px;
+}
+.logo{
+    position: relative;
+    left:-450px;
+}
+#icon-link{
+    color:white;
+    text-decoration:none;
+    position:relative;
+    top:-3px;
+    font-size:12px;
+}
+#icon-link span{
+    color:gold;
+}
+.search{
+    position:relative;
+    top:-40px;
+    left:-170px;
+}
+.search input{
+    width:400px;
+    height:35px;
+    padding:0px 10px;
+    border:1px solid #107bf6;
+    border-radius:3px;
+    outline:none;
+}
+.search i{
+    position:relative;
+    left:-30px;
+    bottom:-2px;
+}
+.nav-comp{
+float:right;
+display:flex;
+position:relative;
+top:-80px;
+right:170px;
+}
+.nav-comp p{
+    margin:10px;
+    color:white;
+    font-weight:bold;
+    margin-left:40px;
+}
+.more{
+    position:relative;
+    top:50px;
+    left:-100px;
+}
+.more li{
+    list-style-type:none;
+}
